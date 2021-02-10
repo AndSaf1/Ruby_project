@@ -13,7 +13,7 @@ gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 5'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 
-gem 'sprockets', '~> 4'
+gem 'sprockets', '~> 3'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
